@@ -1,0 +1,19 @@
+.section-2 {
+  background-color: #0099ff !important;
+  .heading {
+    color: #ffffff;
+  }
+  .card-ship {
+    .ship {
+      width: auto !important;
+      padding: 15px;
+      background-color: #ffffff !important;
+      & img {
+        height: 170px !important;
+      }
+      span {
+        font-weight: 700;
+      }
+    }
+  }
+}
